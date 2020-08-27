@@ -15,3 +15,8 @@ body
     border: 5px solid blue;
     margin: 0 auto;
 }
+#cabecera
+{
+    font-size: 40px;
+    font-style: initial;
+}
