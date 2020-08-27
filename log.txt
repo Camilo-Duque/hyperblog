@@ -1,0 +1,81 @@
+commit 661123663212f36c1e6b9dafeb3e2e8d1fc093f5
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Wed Aug 26 21:09:06 2020 -0500
+
+    Se agrega un segundo párrafo al archivo html.
+
+ blogpost.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 85e110023c0d399ba460cb0aa4ece75bb0aa3eee
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Wed Aug 26 20:43:23 2020 -0500
+
+    Reemplazo de versión de historia por una con un cambio relativamente nuevo
+
+ historia.txt | 10 ++--------
+ 1 file changed, 2 insertions(+), 8 deletions(-)
+
+commit 334a8eb113e23e0a372ad0258877e0422eae1481
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Wed Aug 26 20:31:59 2020 -0500
+
+    modificación de historia en su maestría
+
+ historia.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 1166aeead4784dd2fba252d2f00f3d027a163e94
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Wed Aug 26 20:31:19 2020 -0500
+
+    modificación de historia en su vida
+
+ historia.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit add819344df51f838f5c34316787adbf1d8a76c7
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Wed Aug 26 20:29:21 2020 -0500
+
+    inicio mi proyecto con html y css
+
+ blogpost.html   | 10 ++++++++++
+ css/estilos.css |  6 ++++++
+ 2 files changed, 16 insertions(+)
+
+commit de9d71cc865650b7ec40a711387f4dc8c2c5e347
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Tue Aug 25 22:01:34 2020 -0500
+
+    Versión donde se agrega su mayor gusto
+
+ historia.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 8bf302c33037bdaae58d9ae8e28e1f874dce353d
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Tue Aug 25 21:59:00 2020 -0500
+
+    Versión donde se agrega su estado natural de ánimo
+
+ historia.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit bb149fd97821c25b71131d178053104d00267010
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Tue Aug 25 21:27:41 2020 -0500
+
+    Versión con ajustes de lugares donde ha vivido.
+
+ historia.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit eaa5075808a4c2b6b0a69ead0781cd1dc5f0e458
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Tue Aug 25 21:19:27 2020 -0500
+
+    Esta esla primera versión de este archivo
+
+ historia.txt | 5 +++++
+ 1 file changed, 5 insertions(+)
