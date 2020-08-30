@@ -1,11 +1,96 @@
+commit 945645b9c47f5f7fa9fc2de1fd2385fdc602c6f3
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Sat Aug 29 23:16:04 2020 -0500
+
+    Ajustes al archivo readme.md
+
+commit 0ba9ac4cd2fbdc55c67a997c3bc9dce5afb967df
+Author: cduk3 <70420458+cduk3@users.noreply.github.com>
+Date:   Sat Aug 29 19:07:43 2020 -0500
+
+    Actualización de header en archivo html.
+    
+    Agrego el título definitivo.
+
+commit b12b22620e227bb24151c76f454c41247b810115
+Merge: 462ece0 3b6fe6d
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Sat Aug 29 18:45:18 2020 -0500
+
+    Merge branch 'master' of https://github.com/cduk3/hyperblog into master
+
+commit 3b6fe6d1b95f512182dc992160391e469edfee46
+Author: cduk3 <70420458+cduk3@users.noreply.github.com>
+Date:   Fri Aug 28 22:47:01 2020 -0500
+
+    Initial commit
+
+commit 462ece01ef00d9b198a134a4f2c767663a6eb8dd
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Fri Aug 28 21:23:20 2020 -0500
+
+    Cambios realizados en archivos html y css
+
+commit cce51b3cabaa734086159f7ce726326103f69c30
+Merge: 3244c41 c608a2e
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Thu Aug 27 22:36:07 2020 -0500
+
+    Merging final entre las ramas master y cabecera
+
+commit c608a2e57eb24d2224398f032686f109cdeffb05
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Thu Aug 27 22:25:20 2020 -0500
+
+    Correcciones en archivo css.
+
+commit 3244c4104629daa7e648b2b62d85e1e7332b7c8a
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Thu Aug 27 22:23:26 2020 -0500
+
+    Corrección en archivo html.
+
+commit 3a7e632d391cb1396a08b4e893e7441ed4787dea
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Thu Aug 27 10:20:30 2020 -0500
+
+    Ajustes para agregar un parrafo adicional y una nueva fuente en el css
+
+commit 8ef3e7e7c8abe8e6429fa1d7025713db8317abf1
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Thu Aug 27 10:07:20 2020 -0500
+
+    Cabecera finalizada con diseno basico de color, texto y sombra.
+
+commit 4cf910543f60cdeb9a90dfc1d1b950ce87f144b7
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Wed Aug 26 22:41:36 2020 -0500
+
+    Estructura inicial de la cabecera - branch cabecera
+
+commit 5ee211abc2062779756c44a7f6d0c16062355553
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Wed Aug 26 22:00:37 2020 -0500
+
+    Archivos modificados en html y css.
+
+commit f6cd1de9a8efdb6521b715edb4def3671db1c92d
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Wed Aug 26 21:31:07 2020 -0500
+
+    Se agregan pruebas de exportación de logs
+
+commit 05eca7209245146f863db7aef9e5221202dca169
+Author: Camilo D <pruebasmtc@gmail.com>
+Date:   Wed Aug 26 21:30:44 2020 -0500
+
+    modificación de historia
+
 commit 661123663212f36c1e6b9dafeb3e2e8d1fc093f5
 Author: Camilo D <pruebasmtc@gmail.com>
 Date:   Wed Aug 26 21:09:06 2020 -0500
 
     Se agrega un segundo párrafo al archivo html.
-
- blogpost.html | 1 +
- 1 file changed, 1 insertion(+)
 
 commit 85e110023c0d399ba460cb0aa4ece75bb0aa3eee
 Author: Camilo D <pruebasmtc@gmail.com>
@@ -13,17 +98,11 @@ Date:   Wed Aug 26 20:43:23 2020 -0500
 
     Reemplazo de versión de historia por una con un cambio relativamente nuevo
 
- historia.txt | 10 ++--------
- 1 file changed, 2 insertions(+), 8 deletions(-)
-
 commit 334a8eb113e23e0a372ad0258877e0422eae1481
 Author: Camilo D <pruebasmtc@gmail.com>
 Date:   Wed Aug 26 20:31:59 2020 -0500
 
     modificación de historia en su maestría
-
- historia.txt | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
 
 commit 1166aeead4784dd2fba252d2f00f3d027a163e94
 Author: Camilo D <pruebasmtc@gmail.com>
@@ -31,18 +110,11 @@ Date:   Wed Aug 26 20:31:19 2020 -0500
 
     modificación de historia en su vida
 
- historia.txt | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
-
 commit add819344df51f838f5c34316787adbf1d8a76c7
 Author: Camilo D <pruebasmtc@gmail.com>
 Date:   Wed Aug 26 20:29:21 2020 -0500
 
     inicio mi proyecto con html y css
-
- blogpost.html   | 10 ++++++++++
- css/estilos.css |  6 ++++++
- 2 files changed, 16 insertions(+)
 
 commit de9d71cc865650b7ec40a711387f4dc8c2c5e347
 Author: Camilo D <pruebasmtc@gmail.com>
@@ -50,17 +122,11 @@ Date:   Tue Aug 25 22:01:34 2020 -0500
 
     Versión donde se agrega su mayor gusto
 
- historia.txt | 2 ++
- 1 file changed, 2 insertions(+)
-
 commit 8bf302c33037bdaae58d9ae8e28e1f874dce353d
 Author: Camilo D <pruebasmtc@gmail.com>
 Date:   Tue Aug 25 21:59:00 2020 -0500
 
     Versión donde se agrega su estado natural de ánimo
-
- historia.txt | 2 ++
- 1 file changed, 2 insertions(+)
 
 commit bb149fd97821c25b71131d178053104d00267010
 Author: Camilo D <pruebasmtc@gmail.com>
@@ -68,14 +134,8 @@ Date:   Tue Aug 25 21:27:41 2020 -0500
 
     Versión con ajustes de lugares donde ha vivido.
 
- historia.txt | 4 +++-
- 1 file changed, 3 insertions(+), 1 deletion(-)
-
 commit eaa5075808a4c2b6b0a69ead0781cd1dc5f0e458
 Author: Camilo D <pruebasmtc@gmail.com>
 Date:   Tue Aug 25 21:19:27 2020 -0500
 
     Esta esla primera versión de este archivo
-
- historia.txt | 5 +++++
- 1 file changed, 5 insertions(+)
