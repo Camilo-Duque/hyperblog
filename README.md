@@ -38,6 +38,7 @@ Además se incluyen todos los archivos del proyecto con el cual realizamos diver
         -[Editor de medallas 🏅](https://shields.io/ "Acceder al editor de medallas")
 - Creado con VSCode y con las mejores prácticas.
 - Incluyó comandos usados en Windows, linux y macOS.
+- Disponible para todas las edades.
 
 
 > "Este curso es de gran ayuda para desarollar las habilidades requeridas por el mercado, accede a el [desde aquí](https://platzi.com/clases/git-github/ "Acceder al curso de platzi")"
