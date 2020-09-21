@@ -36,5 +36,8 @@ Además se incluyen todos los archivos del proyecto con el cual realizamos diver
     - Herramientas para complementar nuestro flowchart.
         -[Editor de archivos MD 📑](https://pandao.github.io/editor.md/en.html "Acceder al editor de archivos MD")
         -[Editor de medallas 🏅](https://shields.io/ "Acceder al editor de medallas")
+- Creado con VSCode y con las mejores prácticas.
+
+
 
 > "Este curso es de gran ayuda para desarollar las habilidades requeridas por el mercado, accede a el [desde aquí](https://platzi.com/clases/git-github/ "Acceder al curso de platzi")"
